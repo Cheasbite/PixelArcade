@@ -1,0 +1,42 @@
+/* Sky Ember Theme */
+:root {
+  /* Base Colors */
+  --bg-primary: #1c253a;       /* Deep sky blue-gray */
+  --bg-secondary: #2d4163;     /* Medium slate */
+  --bg-tertiary: #141b2e;      /* Almost black */
+
+  /* Border & Divider */
+  --border-color: #3a507a;     /* Slate borders */
+  --divider-light: #4d6694;    /* Light slate */
+  --divider-dark: #263a5c;     /* Dark slate */
+
+  /* Text Hierarchy */
+  --text-primary: #ffffff;     /* Pure white */
+  --text-secondary: #d0dae8;   /* Blue-gray */
+  --text-muted: #9aaac4;       /* Slate gray */
+  --text-highlight: #FF7F3E    /* Sunset orange */
+
+  /* Brand Colors (Sky Ember Palette) */
+  --brand-indigo: #4335A7;     /* Indigo */
+  --brand-skyblue: #80C4E9;    /* Sky blue */
+  --brand-cream: #FFF6E9;      /* Cream */
+  --brand-orange: #FF7F3E;     /* Fiery orange */
+
+  /* Interactive States */
+  --success-color: #28a745;    /* Green success */
+  --error-color: #ff5258;      /* Error red */
+  --warning-color: #ffb100;    /* Warning amber */
+  --info-color: #6ab0f5;       /* Sky blue info */
+
+  /* Effects */
+  --shadow-sm: rgba(0,0,0,0.3);
+  --shadow-md: rgba(0,0,0,0.5);
+  --shadow-lg: rgba(128, 196, 233, 0.2); /* Sky blue glow */
+  --shadow-glow: 0 0 10px var(--brand-skyblue);
+
+  /* Gradients */
+  --gradient-start: #4335A7;
+  --gradient-mid: #80C4E9;
+  --gradient-end: #FF7F3E;
+}
+

@@ -1,0 +1,20 @@
+@import "./Themes/sky-ember-theme.css"
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  scroll-behaviour: smooth;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  min-width: 100vw;
+}
+

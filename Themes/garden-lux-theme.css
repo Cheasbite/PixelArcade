@@ -1,0 +1,42 @@
+/* Garden Lux Theme */
+:root {
+  /* Base Colors */
+  --bg-primary: #1a2528;       /* Dark olive background */
+  --bg-secondary: #2d3f44;     /* Medium green-gray */
+  --bg-tertiary: #162023;      /* Very dark gray */
+
+  /* Border & Divider */
+  --border-color: #3a5256;     /* Olive borders */
+  --divider-light: #4d6368;    /* Light dividers */
+  --divider-dark: #26383d;     /* Dark dividers */
+
+  /* Text Hierarchy */
+  --text-primary: #f0f5f0;     /* Off-white text */
+  --text-secondary: #aeb8ab;   /* Sage gray */
+  --text-muted: #7a897c;       /* Subtle olive */
+  --text-highlight: #E1EACD;   /* Light cream highlights */
+
+  /* Brand Colors (Garden Palette) */
+  --brand-luxury-green: #BAD8B6;  /* Light green */
+  --brand-sage: #E1EACD;         /* Sage */
+  --brand-cream: #F9F6E6;        /* Cream */
+  --brand-purple: #8D77AB;       /* Muted purple */
+
+  /* Interactive States */
+  --success-color: #00c988;    /* Green success */
+  --error-color: #b85454;      /* Rose red */
+  --warning-color: #dba146;    /* Golden warning */
+  --info-color: #7ca3e6;       /* Soft blue info */
+
+  /* Effects */
+  --shadow-sm: rgba(0,0,0,0.2);
+  --shadow-md: rgba(0,0,0,0.4);
+  --shadow-lg: rgba(139, 119, 171, 0.15); /* Purple glow */
+  --shadow-glow: 0 0 10px var(--brand-sage);
+
+  /* Gradients */
+  --gradient-start: #BAD8B6;
+  --gradient-mid: #E1EACD;
+  --gradient-end: #8D77AB;
+}
+
