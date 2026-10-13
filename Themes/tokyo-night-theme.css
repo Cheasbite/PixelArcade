@@ -1,0 +1,42 @@
+/* Tokyo Night Theme */
+:root {
+  /* Base Colors */
+  --bg-primary: #0f0f1a;       /* Near black */
+  --bg-secondary: #1a1a2e;     /* Dark gray */
+  --bg-tertiary: #2d2d45;      /* Medium dark */
+
+  /* Border & Divider */
+  --border-color: #3a3a52;     /* Gray borders */
+  --divider-light: #454560;    /* Light dividers */
+  --divider-dark: #28283c;     /* Dark dividers */
+
+  /* Text Hierarchy */
+  --text-primary: #e6f1ff;     /* Bright white */
+  --text-secondary: #a9b5dc;   /* Soft gray */
+  --text-muted: #6c7a98;       /* Minimal text */
+  --text-highlight: #1DCD9F;   /* Mint highlights */
+
+  /* Brand Colors (Tokyo Palette) */
+  --brand-black: #000000;      /* Pure black */
+  --brand-dark-gray: #222222;  /* Charcoal */
+  --brand-mint: #1DCD9F;       /* Mint green */
+  --brand-teal: #169976;       /* Deep teal */
+
+  /* Interactive States */
+  --success-color: #00c988;    /* Success green */
+  --error-color: #ff5258;      /* Error red */
+  --warning-color: #ffb100;    /* Warning amber */
+  --info-color: #00d6f4;       /* Info cyan */
+
+  /* Effects */
+  --shadow-sm: rgba(0,0,0,0.4);
+  --shadow-md: rgba(0,0,0,0.5);
+  --shadow-lg: rgba(29, 205, 159, 0.15); /* Mint glow */
+  --shadow-glow: 0 0 10px var(--brand-dark-gray);
+
+  /* Gradients */
+  --gradient-start: #222222;
+  --gradient-mid: #1dcda9;
+  --gradient-end: #cb0404;
+}
+

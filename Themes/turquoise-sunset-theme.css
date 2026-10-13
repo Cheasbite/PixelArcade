@@ -1,0 +1,42 @@
+/* Turquoise Sunset Theme */
+:root {
+  /* Base Colors */
+  --bg-primary: #1a2e2a;       /* Dark teal background */
+  --bg-secondary: #0f3c47;     /* Medium teal */
+  --bg-tertiary: #05262c;      /* Deep teal */
+
+  /* Border & Divider */
+  --border-color: #1e4552;     /* Teal borders */
+  --divider-light: #2a5b6a;    /* Light dividers */
+  --divider-dark: #0d3d4a;     /* Dark dividers */
+
+  /* Text Hierarchy */
+  --text-primary: #ffffff;     /* Main text */
+  --text-secondary: #c8e6db;   /* Subtext */
+  --text-muted: #9bc5be;       /* Muted text */
+  --text-highlight: #FF9F00;   /* Orange highlights */
+
+  /* Brand Colors (Turquoise Palette) */
+  --brand-teal: #309898;       /* Turquoise */
+  --brand-orange: #FF9F00;     /* Bright orange */
+  --brand-sunset: #F4631E;     /* Sunset orange */
+  --brand-red: #CB0404;        /* Deep red */
+
+  /* Interactive States */
+  --success-color: #28a745;    /* Green actions */
+  --error-color: #da2528;      /* Red alerts */
+  --warning-color: #ffc107;    /* Warning states */
+  --info-color: #17a2b8;       /* Info messages */
+
+  /* Effects */
+  --shadow-sm: rgba(0,0,0,0.3);
+  --shadow-md: rgba(0,0,0,0.5);
+  --shadow-lg: rgba(48, 152, 152, 0.2); /* Teal glow */
+  --shadow-glow: 0 0 10px var(--brand-orange);
+
+  /* Gradients */
+  --gradient-start: #309898;
+  --gradient-mid: #FF9F00;
+  --gradient-end: #CB0404;
+}
+
