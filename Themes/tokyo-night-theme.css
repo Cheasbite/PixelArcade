@@ -22,6 +22,12 @@
   --brand-mint: #1DCD9F;       /* Mint green */
   --brand-teal: #169976;       /* Deep teal */
 
+  /* Brand Colors (Tokyo Palette) */
+  --brand0: #000000;      /* Pure black */
+  --brand1: #222222;  /* Charcoal */
+  --brand2: #1DCD9F;       /* Mint green */
+  --brand3: #169976;       /* Deep teal */
+
   /* Interactive States */
   --success-color: #00c988;    /* Success green */
   --error-color: #ff5258;      /* Error red */

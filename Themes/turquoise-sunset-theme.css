@@ -22,6 +22,12 @@
   --brand-sunset: #F4631E;     /* Sunset orange */
   --brand-red: #CB0404;        /* Deep red */
 
+  /* Brand Colors (Turquoise Palette) */
+  --brand0: #309898;       /* Turquoise */
+  --brand1: #FF9F00;     /* Bright orange */
+  --brand2: #F4631E;     /* Sunset orange */
+  --brand3: #CB0404;        /* Deep red */
+
   /* Interactive States */
   --success-color: #28a745;    /* Green actions */
   --error-color: #da2528;      /* Red alerts */

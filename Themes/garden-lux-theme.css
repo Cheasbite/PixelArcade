@@ -22,6 +22,12 @@
   --brand-cream: #F9F6E6;        /* Cream */
   --brand-purple: #8D77AB;       /* Muted purple */
 
+  /* Brand Colors (Garden Palette) */
+  --brand0: #BAD8B6;  /* Light green */
+  --brand1: #E1EACD;         /* Sage */
+  --brand2: #F9F6E6;        /* Cream */
+  --brand3: #8D77AB;       /* Muted purple */
+
   /* Interactive States */
   --success-color: #00c988;    /* Green success */
   --error-color: #b85454;      /* Rose red */

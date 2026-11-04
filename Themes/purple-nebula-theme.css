@@ -22,6 +22,12 @@
   --brand-hot-pink: #FF3F7F;        /* Pink accent */
   --brand-solar-yellow: #FFC400;    /* Golden yellow */
 
+  /* Brand Colors (Your Palette) */
+  --brand0: #450693;    /* Deep purple */
+  --brand1: #8C00FF;   /* Bright violet */
+  --brand2: #FF3F7F;        /* Pink accent */
+  --brand3: #FFC400;    /* Golden yellow */
+
   /* Interactive States */
   --success-color: #00C988;   /* Green actions */
   --error-color: #FF5258;     /* Red alerts */
@@ -39,3 +45,4 @@
   --gradient-mid: #8C00FF;
   --gradient-end: #FF3F7F;
 }
+
