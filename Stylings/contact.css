@@ -1,0 +1,15 @@
+/* Contact page — page-specific accents only.
+ * Shared header/footer/content layout lives in Stylings/shared/layout.css.
+ */
+
+.page-contact main {
+  max-width: 860px;
+}
+
+.page-contact li strong {
+  color: var(--cy);
+}
+
+.page-contact li a {
+  word-break: break-word;
+}

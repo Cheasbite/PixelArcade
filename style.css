@@ -10,6 +10,7 @@
  */
 
 @import "./Themes/sky-ember-theme.css";
+@import "./Stylings/shared/layout.css";
 @import "./Stylings/index.css";
 @import "./Stylings/aboutme.css";
 @import "./Stylings/contact.css";

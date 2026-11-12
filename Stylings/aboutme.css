@@ -1,0 +1,11 @@
+/* About page — page-specific accents only.
+ * Shared header/footer/content layout lives in Stylings/shared/layout.css.
+ */
+
+.page-about main {
+  max-width: 860px;
+}
+
+.page-about h1 {
+  text-shadow: 0 0 18px var(--shadow-lg);
+}
