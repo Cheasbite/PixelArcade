@@ -24,8 +24,8 @@ nav a:hover{color:var(--cy)}
 .tag{color:#f472b6;font-weight:600;white-space:nowrap}
 
 .hero{
-  background: radial-gradient(circle at 80% 30%, rgb(from var(--bg-secondary) r g b / 90),transparent 55%),
-              radial-gradient(circle at 10% 90%, rgb(from var(--brand0) r g b / 55),transparent 50%), var(--bg-primary);
+  background: radial-gradient(circle at 80% 30%, rgb(from var(--bg-secondary) r g b / 90%),transparent 55%),
+              radial-gradient(circle at 10% 90%, rgb(from var(--brand0) r g b / 55%),transparent 50%), var(--bg-primary);
   border-bottom:1px solid var(--shadow-lg);
   padding:64px 0;
 }
